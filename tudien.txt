@@ -1,0 +1,5 @@
+4
+apple # qua tao
+cat # con meo
+dog # con cho
+re # do
